@@ -4,5 +4,7 @@ int main(){
 
     //云端中更改内容
 
+    cout<<"BOX1用户更改内容"<<endl;
+
     return 0;
 }
