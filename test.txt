@@ -6,5 +6,7 @@ int main(){
 
     cout<<"test用户更改内容"<<endl;
 
+    int i = 10;
+
     return 0;
 }
